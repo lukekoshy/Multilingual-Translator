@@ -1,0 +1,9 @@
+Original (en): how are you
+Translated (fr): comment allez-vous
+
+Original (es): ¿Cómo estás?
+Translated (en): How are you?
+
+Original (fr): allez-vous
+Translated (en): Come on.
+
